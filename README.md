@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard | Power BI Project
 
-An end-to-end data analytics project built on a **real-world HR dataset** from AtliQ Technologies. The project involves gathering requirements from an HR stakeholder, transforming raw Excel data, and delivering an interactive Power BI dashboard that provides actionable employee presence insights.
+An end-to-end data analytics project built on a **real-world HR dataset**. The project involves gathering requirements from an HR stakeholder, transforming raw Excel data, and delivering an interactive Power BI dashboard that provides actionable employee presence insights.
 
 ---
 
